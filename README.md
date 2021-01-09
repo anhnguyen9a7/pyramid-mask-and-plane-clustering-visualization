@@ -10,4 +10,6 @@ arXiv preprint arXiv:1903.11800 (2019).
 
 > **Open in Colab to interact with 3D plots.**
 
-![result](Images/3d%20plot.png)
+![result1](Images/img1.png)
+![result2](Images/img2.png)
+![result3](Images/img3.png)
